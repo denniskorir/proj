@@ -1,0 +1,22 @@
+{
+  "name": "proj",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dennis Korir",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/denniskorir/proj.git"
+  },
+  "keywords": [
+    "TypeScript"
+  ],
+  "bugs": {
+    "url": "https://github.com/denniskorir/proj/issues"
+  },
+  "homepage": "https://github.com/denniskorir/proj#readme",
+  "description": ""
+}
